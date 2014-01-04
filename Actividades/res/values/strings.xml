@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actividades</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="Negro">#000000</color>
+    <string name="nombre">Nombre</string>
+    <string name="Resultado">Resultado</string>
+    <string name="verificar">Verificar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+
+</resources>
