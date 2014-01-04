@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.widget.Toast;
 
 public class CicloactivityMainActivity extends Activity {
-
+ int a;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
