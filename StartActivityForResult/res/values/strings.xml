@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartActivityForResult</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="tvApellido">Apellido:</string>
+    <string name="btApellido">+</string>
+    <string name="btNombre">+</string>
+    <string name="title_activity_rellenar_campos">RellenarCampos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btAceptar">Aceptar</string>
+    <string name="btCancelar">Cancelar</string>
+
+</resources>
