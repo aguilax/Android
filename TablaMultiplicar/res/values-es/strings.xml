@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TablaMultiplicar</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView2">Introduce la tabla que quieres que se muestre (valores entre 1 y 9)</string>
+    <string name="textView1">Resultado</string>
+    <string name="button1">Calcular</string>
+
+</resources>
