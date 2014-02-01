@@ -2,13 +2,13 @@ package aguilax.listView;
 
 import android.widget.ImageView;
 
-public class Titular {
+public class Entradas {
 	private String titular;
 	private String subtitulo;
 	private String imagen;
 	private Integer numEntradas;
 	
-	public Titular(String tit,String sub,String imagen,Integer numEntradas){
+	public Entradas(String tit,String sub,String imagen,Integer numEntradas){
 		this.titular=tit;
 		this.subtitulo =sub;
 		this.imagen=imagen;
@@ -17,7 +17,7 @@ public class Titular {
 		
 	}
 	
-
+   
 
 	public String getTitular() {
 		return titular;
@@ -34,7 +34,9 @@ public class Titular {
 		return numEntradas;
 	}
 
-
+   public void setNumEntradas(int e){
+	   this.numEntradas=e;
+   }
 	
 
 }

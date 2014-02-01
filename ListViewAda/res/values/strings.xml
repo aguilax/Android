@@ -8,5 +8,8 @@
     <string name="Disponibles">Entradas disponibles</string>
     <string name="tuNombre">Introduce tu nombre</string>
     <string name="inDni">Introduce tu DNI</string>
+    <string name="comprar">Comprar</string>
+    <string name="cancelar">Cancelar</string>
+    <color name="azul">#0101DF</color>
 
 </resources>
